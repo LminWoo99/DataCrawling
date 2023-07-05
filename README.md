@@ -136,5 +136,9 @@ plt.show()
 
 
 ```
+<h2>시각화 자료(링크 참조)</h2>
 
+[막대그래프](https://github.com/LminWoo99/DataCrawling/blob/main/그래프.png)
+<br>
+[원도표](https://github.com/LminWoo99/DataCrawling/blob/main/원도표.png)
  
